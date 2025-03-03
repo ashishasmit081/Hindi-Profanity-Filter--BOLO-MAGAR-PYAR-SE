@@ -23,7 +23,7 @@ For each match:
 ## Dataset
 The dataset used is located at:
 ```
-/kaggle/input/top-112-hindi-swear-words/hindi top 150 swear words.csv
+https://www.kaggle.com/datasets/shadow4ever/top-112-hindi-swear-words/data
 ```
 It was manually created to include:
 
