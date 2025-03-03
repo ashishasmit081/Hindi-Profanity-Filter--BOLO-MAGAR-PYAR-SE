@@ -33,6 +33,11 @@ It was manually created to include:
 
 The dataset was compiled manually to ensure relevance and accuracy for Hindi-speaking contexts, drawing from everyday language use. Only the **second column (Hindi script)** is used for matching in the code, while the first column serves as a reference for understanding or expanding the list.
 
+Python libraries:
+```
+pandas, speech_recognition, pydub, gtts, numpy, IPython
+```
+
 ## Functionality
 The tool supports two input types:
 1. **Text Input:** Users can paste Hindi text directly, which is then processed for censorship.
